@@ -17,7 +17,7 @@ A beautiful, modern language translation web application built with Flask and ad
 
 ## 🚀 Live Demo
 
-[Deploy your own instance on Render](#deployment)
+https://lnkd.in/eBnMC98m
 
 ## 🛠️ Technology Stack
 
